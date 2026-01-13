@@ -1,0 +1,7 @@
+{
+    "name": "backend-scraper",
+    "version": "1.0.0",
+    "collection": "@nestjs/schematics",
+    "schemag": "@nestjs/schematics/collection.json",
+    "$schema": "./node_modules/@nestjs/schematics/nest-collection.json"
+}
