@@ -236,7 +236,7 @@ MIT
 
 ## 👤 Author
 
-Created for the **Product Data Explorer – World of Books Scraping Platform** project.
+@arun6184
 
 ---
 
